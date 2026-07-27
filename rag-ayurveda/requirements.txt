@@ -1,0 +1,17 @@
+# Web Scraping & Parsing
+requests
+beautifulsoup4
+pydantic
+
+# Text Processing & Transliteration
+indic-transliteration
+
+# AI & Embeddings
+torch
+sentence-transformers
+
+# Vector Database
+qdrant-client
+
+# Large Language Model
+google-generativeai
